@@ -1,6 +1,6 @@
 # localiza_sol
 
-A new Flutter project.
+A new Flutter project, for sun energy.
 
 ## Getting Started
 
