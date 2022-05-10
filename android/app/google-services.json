@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "118247160752",
+    "project_id": "localizasol",
+    "storage_bucket": "localizasol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118247160752:android:02dac78acaa116fcbc3475",
+        "android_client_info": {
+          "package_name": "com.example.localiza_sol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118247160752-s940l2qrcc6ad5frvh1fjrt7349tlmm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.localiza_sol",
+            "certificate_hash": "eee8e1e5c3824a14f499ca08a9ae3c6ef89e6008"
+          }
+        },
+        {
+          "client_id": "118247160752-p24ljbcih0qc4j9kt2g7huh74bq62dqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiTzir5wTezEFxQc5tX4bP172JmZBuzn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118247160752-p24ljbcih0qc4j9kt2g7huh74bq62dqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
